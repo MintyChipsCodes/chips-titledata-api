@@ -1,0 +1,10 @@
+{
+  "apps": {
+    "app1": {
+      "Name": "app 1",
+      "creator": "creator",
+      "about": "about",
+      "download": "https://example.com/app1.exe"
+    }
+  }
+}
